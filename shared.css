@@ -43,3 +43,7 @@ html, body {
 a {
     color: inherit;
 }
+.privacy {
+    text-align: left;
+    max-width: 700px;
+}
